@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gsora
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://me.gsora.xyz
+  * I am gsora (https://keybase.io/gsora) on keybase.
+  * I have a public key ASC0SzXCTpTuayEsBGJ5mWMmBKAs44e-rGqDSX8bRSo3CQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101163b544262dc8e48a0768a8a762506776018ce41f730e1b1bd3c1e4fe0dae2b30a",
+      "host": "keybase.io",
+      "kid": "0120b44b35c24e94ee6b212c04627999632604a02ce387beac6a83497f1b452a37090a",
+      "uid": "afebccbf8c27c30c0b77ed0d3326da00",
+      "username": "gsora"
+    },
+    "merkle_root": {
+      "ctime": 1510359930,
+      "hash": "63aa12a9ccc3c45f722cf0ea9bb0f7235f6b2add581c922a09cf31c71fd539aaa32e8f0f5646791b634fadb253cfdca28b34e774df5f472a18fc22d35e713dc4",
+      "hash_meta": "528da00f07d0ac48ba66937088678daf86452faed34b0db29d567e9d01ad6784",
+      "seqno": 1692207
+    },
+    "service": {
+      "hostname": "me.gsora.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1510359930,
+  "expire_in": 504576000,
+  "prev": "42740057d762591d615ee193c34fcffd83ef1533ab74c4bf0bcbabe93f2e94ff",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtEs1wk6U7mshLARieZljJgSgLOOHvqxqg0l/G0UqNwkKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTYzYjU0NDI2MmRjOGU0OGEwNzY4YThhNzYyNTA2Nzc2MDE4Y2U0MWY3MzBlMWIxYmQzYzFlNGZlMGRhZTJiMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjQ0YjM1YzI0ZTk0ZWU2YjIxMmMwNDYyNzk5OTYzMjYwNGEwMmNlMzg3YmVhYzZhODM0OTdmMWI0NTJhMzcwOTBhIiwidWlkIjoiYWZlYmNjYmY4YzI3YzMwYzBiNzdlZDBkMzMyNmRhMDAiLCJ1c2VybmFtZSI6Imdzb3JhIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEwMzU5OTMwLCJoYXNoIjoiNjNhYTEyYTljY2MzYzQ1ZjcyMmNmMGVhOWJiMGY3MjM1ZjZiMmFkZDU4MWM5MjJhMDljZjMxYzcxZmQ1MzlhYWEzMmU4ZjBmNTY0Njc5MWI2MzRmYWRiMjUzY2ZkY2EyOGIzNGU3NzRkZjVmNDcyYTE4ZmMyMmQzNWU3MTNkYzQiLCJoYXNoX21ldGEiOiI1MjhkYTAwZjA3ZDBhYzQ4YmE2NjkzNzA4ODY3OGRhZjg2NDUyZmFlZDM0YjBkYjI5ZDU2N2U5ZDAxYWQ2Nzg0Iiwic2Vxbm8iOjE2OTIyMDd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWUuZ3NvcmEueHl6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MTAzNTk5MzAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNDI3NDAwNTdkNzYyNTkxZDYxNWVlMTkzYzM0ZmNmZmQ4M2VmMTUzM2FiNzRjNGJmMGJjYmFiZTkzZjJlOTRmZiIsInNlcW5vIjoyMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBAnI0ODgPIzp2Arcr3gLsLVbWfFF17lh9uVo498CSPukmn8z4b8J0HjaMPg7nRZfkQ3BA0me2TgSaK87dGaxcAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgem47pfGYV9Ke1cdDKkvjTJDz0LzoWoYMZsRnn3DutTijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gsora
+
+==================================================================
+
