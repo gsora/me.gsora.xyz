@@ -6,24 +6,24 @@ I hereby claim:
 
   * I am an admin of https://me.gsora.xyz
   * I am gsora (https://keybase.io/gsora) on keybase.
-  * I have a public key ASC0SzXCTpTuayEsBGJ5mWMmBKAs44e-rGqDSX8bRSo3CQo
+  * I have a public key ASC2KIdkmLowEGxM9FgSwwB_pJDm5PAQI5_9tcOAIVwPJAo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0101163b544262dc8e48a0768a8a762506776018ce41f730e1b1bd3c1e4fe0dae2b30a",
+      "eldest_kid": "0120b628876498ba30106c4cf45812c3007fa490e6e4f010239ffdb5c380215c0f240a",
       "host": "keybase.io",
-      "kid": "0120b44b35c24e94ee6b212c04627999632604a02ce387beac6a83497f1b452a37090a",
+      "kid": "0120b628876498ba30106c4cf45812c3007fa490e6e4f010239ffdb5c380215c0f240a",
       "uid": "afebccbf8c27c30c0b77ed0d3326da00",
       "username": "gsora"
     },
     "merkle_root": {
-      "ctime": 1510359930,
-      "hash": "63aa12a9ccc3c45f722cf0ea9bb0f7235f6b2add581c922a09cf31c71fd539aaa32e8f0f5646791b634fadb253cfdca28b34e774df5f472a18fc22d35e713dc4",
-      "hash_meta": "528da00f07d0ac48ba66937088678daf86452faed34b0db29d567e9d01ad6784",
-      "seqno": 1692207
+      "ctime": 1516403070,
+      "hash": "71f2f186f000c0e311b91f7f6a1aca2cdcbda4b53bfbe3aa355374c15e3a5528179890bd0f8923232fa9b6f6e3652172e6e80e5156dc2668faf6ac8f8cb4d7cb",
+      "hash_meta": "f9499240c437dd962dcb427f2de932c9b685e4e2d6e0f0e0b4c0878290ca971c",
+      "seqno": 1948127
     },
     "service": {
       "hostname": "me.gsora.xyz",
@@ -34,18 +34,18 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.33"
+    "version": "1.0.39"
   },
-  "ctime": 1510359930,
+  "ctime": 1516403085,
   "expire_in": 504576000,
-  "prev": "42740057d762591d615ee193c34fcffd83ef1533ab74c4bf0bcbabe93f2e94ff",
-  "seqno": 20,
+  "prev": "2f4073a65d9b30d6cc8da816a8947edc90e9128fff21b815ef15db99329e9638",
+  "seqno": 35,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtEs1wk6U7mshLARieZljJgSgLOOHvqxqg0l/G0UqNwkKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTYzYjU0NDI2MmRjOGU0OGEwNzY4YThhNzYyNTA2Nzc2MDE4Y2U0MWY3MzBlMWIxYmQzYzFlNGZlMGRhZTJiMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjQ0YjM1YzI0ZTk0ZWU2YjIxMmMwNDYyNzk5OTYzMjYwNGEwMmNlMzg3YmVhYzZhODM0OTdmMWI0NTJhMzcwOTBhIiwidWlkIjoiYWZlYmNjYmY4YzI3YzMwYzBiNzdlZDBkMzMyNmRhMDAiLCJ1c2VybmFtZSI6Imdzb3JhIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEwMzU5OTMwLCJoYXNoIjoiNjNhYTEyYTljY2MzYzQ1ZjcyMmNmMGVhOWJiMGY3MjM1ZjZiMmFkZDU4MWM5MjJhMDljZjMxYzcxZmQ1MzlhYWEzMmU4ZjBmNTY0Njc5MWI2MzRmYWRiMjUzY2ZkY2EyOGIzNGU3NzRkZjVmNDcyYTE4ZmMyMmQzNWU3MTNkYzQiLCJoYXNoX21ldGEiOiI1MjhkYTAwZjA3ZDBhYzQ4YmE2NjkzNzA4ODY3OGRhZjg2NDUyZmFlZDM0YjBkYjI5ZDU2N2U5ZDAxYWQ2Nzg0Iiwic2Vxbm8iOjE2OTIyMDd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWUuZ3NvcmEueHl6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MTAzNTk5MzAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNDI3NDAwNTdkNzYyNTkxZDYxNWVlMTkzYzM0ZmNmZmQ4M2VmMTUzM2FiNzRjNGJmMGJjYmFiZTkzZjJlOTRmZiIsInNlcW5vIjoyMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBAnI0ODgPIzp2Arcr3gLsLVbWfFF17lh9uVo498CSPukmn8z4b8J0HjaMPg7nRZfkQ3BA0me2TgSaK87dGaxcAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgem47pfGYV9Ke1cdDKkvjTJDz0LzoWoYMZsRnn3DutTijdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtiiHZJi6MBBsTPRYEsMAf6SQ5uTwECOf/bXDgCFcDyQKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjYyODg3NjQ5OGJhMzAxMDZjNGNmNDU4MTJjMzAwN2ZhNDkwZTZlNGYwMTAyMzlmZmRiNWMzODAyMTVjMGYyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjYyODg3NjQ5OGJhMzAxMDZjNGNmNDU4MTJjMzAwN2ZhNDkwZTZlNGYwMTAyMzlmZmRiNWMzODAyMTVjMGYyNDBhIiwidWlkIjoiYWZlYmNjYmY4YzI3YzMwYzBiNzdlZDBkMzMyNmRhMDAiLCJ1c2VybmFtZSI6Imdzb3JhIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE2NDAzMDcwLCJoYXNoIjoiNzFmMmYxODZmMDAwYzBlMzExYjkxZjdmNmExYWNhMmNkY2JkYTRiNTNiZmJlM2FhMzU1Mzc0YzE1ZTNhNTUyODE3OTg5MGJkMGY4OTIzMjMyZmE5YjZmNmUzNjUyMTcyZTZlODBlNTE1NmRjMjY2OGZhZjZhYzhmOGNiNGQ3Y2IiLCJoYXNoX21ldGEiOiJmOTQ5OTI0MGM0MzdkZDk2MmRjYjQyN2YyZGU5MzJjOWI2ODVlNGUyZDZlMGYwZTBiNGMwODc4MjkwY2E5NzFjIiwic2Vxbm8iOjE5NDgxMjd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWUuZ3NvcmEueHl6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzkifSwiY3RpbWUiOjE1MTY0MDMwODUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMmY0MDczYTY1ZDliMzBkNmNjOGRhODE2YTg5NDdlZGM5MGU5MTI4ZmZmMjFiODE1ZWYxNWRiOTkzMjllOTYzOCIsInNlcW5vIjozNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBmxxihkOaXQ9GN00pw7/lMS3gypt+BxG224sCY9zfV2s59IiQMSukJfMZTJUPdMakAzBPupeshGrzBwBR+TMgCqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgf6i6IdKD74K6F8QpHcIsjOmExBly/+q2YTn/E0AnhMOjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -53,4 +53,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/gsora
 
 ==================================================================
-
