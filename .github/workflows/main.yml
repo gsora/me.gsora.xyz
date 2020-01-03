@@ -8,12 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: parent working directory
-        run: pwd
       - name: Copy folder content recursively to remote
         uses: garygrossgarten/github-action-scp@release
         with:
-          local: ./*
+          local: $(pwd)/*
           remote: /srv/http/megsoraxyz/
           port: 1337 
           host: ${{ secrets.HOST }}
