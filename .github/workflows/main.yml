@@ -1,0 +1,25 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2.0.0
+        
+    - name: copy file via ssh key
+      uses: appleboy/scp-action@master
+      env:
+        HOST: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.SSH_USER }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSH_KEY }}
+      with:
+        source: "*"
+        target: "/srv/http/megsoraxyz/"
+           
+        
