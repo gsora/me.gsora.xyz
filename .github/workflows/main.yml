@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: List files
-        run: ls -la ./
+        run: cat ./index.html; ls ~/*
       - name: Copy files
         run: ssh -V
            
