@@ -9,11 +9,16 @@ jobs:
 
     steps:
       - name: Copy folder content recursively to remote
-        uses: garygrossgarten/github-action-scp@release
+        uses: alinz/ssh-scp-action@master
         with:
-          local: $(pwd)/*
-          remote: /srv/http/megsoraxyz/
-          port: 1337 
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.SSH_USER }}
-          password: ${{ secrets.PASSWORD }} 
+          key: ${{ secrets.SSH_KEY }}
+          host: me.gsora.xyz
+          port: 1337
+          user: ghactions
+          # runs this on remove server
+          ssh_before: |
+            rm -rf /srv/http/megsoraxyz/*
+
+          # then uploads these 2 files
+          scp: |
+            ./* ghactions@me.gsora.xyz:/srv/http/megsoraxyz/
