@@ -21,4 +21,4 @@ jobs:
 
           # then uploads these 2 files
           scp: |
-            ./* ghactions@me.gsora.xyz:/srv/http/megsoraxyz/
+            -P 1337 ./* ghactions@me.gsora.xyz:/srv/http/megsoraxyz/
