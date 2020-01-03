@@ -13,6 +13,7 @@ jobs:
         with:
           local: ./*
           remote: /srv/http/megsoraxyz/
+          port: 1337 
           host: ${{ secrets.HOST }}
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.PASSWORD }} 
