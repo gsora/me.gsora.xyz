@@ -8,17 +8,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Copy folder content recursively to remote
-        uses: alinz/ssh-scp-action@master
-        with:
-          key: ${{ secrets.SSH_KEY }}
-          host: me.gsora.xyz
-          port: 1337
-          user: ghactions
-          # runs this on remove server
-          ssh_before: |
-            rm -rf /srv/http/megsoraxyz/*
-
-          # then uploads these 2 files
-          scp: |
-            -P 1337 ./* ghactions@me.gsora.xyz:/srv/http/megsoraxyz/
+      - name: List files
+        run: ls -la ./
+      - name: Copy files
+        run: ssh -V
+           
+        
