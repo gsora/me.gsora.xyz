@@ -1,3 +1,7 @@
+html {
+    font-family: monospace;
+}
+
 .header {
 	margin-top: 10rem;
 	text-align: center;
